@@ -1,3 +1,17 @@
+# Trackmania Video Game Machine Learning - Documentation
+
+This repository is a fork of [Original Repository Name](link-to-original-repo).  
+The original project is maintained by [Original Author Name].  
+I have added bilingual documentation (English and German) to make the project more accessible.
+
+## License
+This project is licensed under the [MIT License](link-to-license). See the `LICENSE` file for details.
+
+## Changes in This Repository
+- Added bilingual documentation (English and German).
+- No changes were made to the original codebase.
+
+
 # TMRL
 
 [![PyPI version](https://badge.fury.io/py/tmrl.svg)](https://badge.fury.io/py/tmrl)
@@ -530,3 +544,7 @@ Many thanks to our sponsors for their support!
 
 ![mist](readme/img/mistlogo.png)
 [MISTlab - Polytechnique Montreal](https://mistlab.ca)
+
+
+
+
