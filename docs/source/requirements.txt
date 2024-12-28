@@ -1,7 +1,11 @@
 # File: docs/requirements.txt
 
 # Defining the exact version will make sure things don't break
-sphinx==7.2.6
-sphinx_rtd_theme==2.0.0
-readthedocs-sphinx-search==0.3.2
-nbsphinx
+
+sphinx==7.2.6  # Specifies the exact version of sphinx to be used. Ensures compatibility and prevents issues.  # Gibt die exakte Version von sphinx an, die verwendet werden soll. Stellt Kompatibilität sicher und verhindert Probleme.
+
+sphinx_rtd_theme==2.0.0  # Specifies the exact version of the Read the Docs theme for Sphinx. Ensures a consistent look for the documentation.  # Gibt die exakte Version des Read the Docs-Themes für Sphinx an. Stellt ein konsistentes Aussehen für die Dokumentation sicher.
+
+readthedocs-sphinx-search==0.3.2  # Specifies the version of the search extension for Sphinx, enabling search functionality in Read the Docs.  # Gibt die Version der Sucherweiterung für Sphinx an, die die Suchfunktionalität in Read the Docs ermöglicht.
+
+nbsphinx  # Specifies the nbsphinx package to allow Jupyter notebooks to be included in the Sphinx documentation.  # Gibt das nbsphinx-Paket an, das es ermöglicht, Jupyter-Notebooks in die Sphinx-Dokumentation einzufügen.
