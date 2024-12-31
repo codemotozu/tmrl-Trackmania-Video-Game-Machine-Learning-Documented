@@ -1,7 +1,7 @@
 # Trackmania Video Game Machine Learning - Documentation
 
-This repository is a fork of [Original Repository Name](link-to-original-repo).  
-The original project is maintained by [Original Author Name].  
+This repository is a fork of [TMRL](https://github.com/trackmania-rl/tmrl).  
+
 I have added bilingual documentation (English and German) to make the project more accessible.
 
 ## License
